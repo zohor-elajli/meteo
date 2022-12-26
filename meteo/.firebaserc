@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "meteo-4c124": {
+      "hosting": {
+        "meteo": [
+          "meteo-4c124"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "meteo-4c124"
+  }
+}
